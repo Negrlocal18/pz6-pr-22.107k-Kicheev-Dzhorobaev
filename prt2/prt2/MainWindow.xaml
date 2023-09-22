@@ -1,0 +1,18 @@
+﻿<Window x:Class="prt2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prt2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="вариант 4&#xD;&#xA;" HorizontalAlignment="Left" Margin="344,157,0,0" VerticalAlignment="Top" Width="92"/>
+        <Button Content="задча 1&#xD;&#xA;" HorizontalAlignment="Left" Margin="40,354,0,0" VerticalAlignment="Top" Width="82" Height="38" Click="Button_Click"/>
+        <Button Content="заадча 2" HorizontalAlignment="Left" Margin="204,354,0,0" VerticalAlignment="Top" Height="38" Width="73"/>
+        <Button Content="задача 3" HorizontalAlignment="Left" Margin="347,354,0,0" VerticalAlignment="Top" Height="37" Width="86" Click="Button_Click_1"/>
+        <Button Content="задача 4" HorizontalAlignment="Left" Margin="515,354,0,0" VerticalAlignment="Top" Height="37" Width="74" Click="Button_Click_2"/>
+        <Button Content="задача 5" HorizontalAlignment="Left" Margin="668,354,0,0" VerticalAlignment="Top" Height="37" Width="74"/>
+
+    </Grid>
+</Window>
