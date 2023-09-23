@@ -45,9 +45,9 @@ namespace prt2
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-           Window2 Window2 = new Window2();
-            Window2.Show();
+            MainWindow window = new MainWindow();
             this.Close();
+            window.ShowDialog();
         }
     }
 }

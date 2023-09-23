@@ -7,9 +7,8 @@
         mc:Ignorable="d"
         Title="Window4" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="330,194,0,0" VerticalAlignment="Top" Width="103" Height="41" Click="Button_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="154,320,0,0" VerticalAlignment="Top" Width="68" Height="27"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="529,320,0,0" VerticalAlignment="Top" Width="68" Height="27"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,176,0,0" VerticalAlignment="Top" Width="104" Height="41" Click="Button_Click"/>
+        <Button Content="Вернуться ко всем задачам" HorizontalAlignment="Center" Margin="0,384,0,0" VerticalAlignment="Top" Foreground="#FFF11A1A" Click="Button_Click_1"/>
 
     </Grid>
 </Window>

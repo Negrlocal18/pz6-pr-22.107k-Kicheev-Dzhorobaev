@@ -60,6 +60,13 @@ namespace prt2
 
             return sb.ToString();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MainWindow window = new MainWindow();
+            this.Close();
+            window.ShowDialog();
+        }
     }
 }
     

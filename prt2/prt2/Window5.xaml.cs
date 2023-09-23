@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace prt2
 {
     /// <summary>
-    /// Логика взаимодействия для Window2.xaml
+    /// Логика взаимодействия для Window5.xaml
     /// </summary>
-    public partial class Window2 : Window
+    public partial class Window5 : Window
     {
-        public Window2()
+        public Window5()
         {
             InitializeComponent();
         }

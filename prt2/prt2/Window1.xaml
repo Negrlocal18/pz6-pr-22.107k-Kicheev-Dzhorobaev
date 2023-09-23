@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <Label x:Name="ResultLabel" Content="" HorizontalAlignment="Left" Margin="235,103,0,0" VerticalAlignment="Top" Width="336" Height="38" Background="#FFA77D7D"/>
-        <Button x:Name="CheckButton" Content="Button" HorizontalAlignment="Left" Margin="360,189,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <TextBox x:Name="NumberInput" HorizontalAlignment="Left" Margin="302,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="134,341,0,0" VerticalAlignment="Top" Width="65"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="541,341,0,0" VerticalAlignment="Top" Width="69" Click="Button_Click_1"/>
+        <Label x:Name="ResultLabel" Content="" HorizontalAlignment="Left" Margin="229,84,0,0" VerticalAlignment="Top" Width="336" Height="38" Background="#FFA77D7D"/>
+        <Button x:Name="CheckButton" Content="Button" HorizontalAlignment="Left" Margin="360,189,0,0" VerticalAlignment="Top" Click="Button_Click" Width="74"/>
+        <TextBox x:Name="NumberInput" HorizontalAlignment="Left" Margin="316,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
+        <Button Content="Вернуться ко всем задачам" HorizontalAlignment="Center" Margin="0,348,0,0" VerticalAlignment="Top" Height="26" Width="160" Foreground="#FFEF0A0A" Click="Button_Click_1"/>
+        <Label Content="Введите число" HorizontalAlignment="Left" Margin="212,137,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

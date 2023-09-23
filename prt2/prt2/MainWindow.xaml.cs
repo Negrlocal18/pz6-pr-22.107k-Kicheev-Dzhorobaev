@@ -42,5 +42,17 @@ namespace prt2
             Window window4 = new Window4();
             window4.Show();
         }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Window window5 = new Window5();
+            window5.Show();
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            Window window2 = new Window2();
+            window2.Show();
+        }
     }
 }

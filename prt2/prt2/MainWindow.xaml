@@ -9,10 +9,10 @@
     <Grid>
         <Label Content="вариант 4&#xD;&#xA;" HorizontalAlignment="Left" Margin="344,157,0,0" VerticalAlignment="Top" Width="92"/>
         <Button Content="задча 1&#xD;&#xA;" HorizontalAlignment="Left" Margin="40,354,0,0" VerticalAlignment="Top" Width="82" Height="38" Click="Button_Click"/>
-        <Button Content="заадча 2" HorizontalAlignment="Left" Margin="204,354,0,0" VerticalAlignment="Top" Height="38" Width="73"/>
         <Button Content="задача 3" HorizontalAlignment="Left" Margin="347,354,0,0" VerticalAlignment="Top" Height="37" Width="86" Click="Button_Click_1"/>
         <Button Content="задача 4" HorizontalAlignment="Left" Margin="515,354,0,0" VerticalAlignment="Top" Height="37" Width="74" Click="Button_Click_2"/>
-        <Button Content="задача 5" HorizontalAlignment="Left" Margin="668,354,0,0" VerticalAlignment="Top" Height="37" Width="74"/>
+        <Button Content="задача 5" HorizontalAlignment="Left" Margin="668,354,0,0" VerticalAlignment="Top" Height="37" Width="74" Click="Button_Click_3"/>
+        <Button Content="задача 2" HorizontalAlignment="Left" Margin="210,354,0,0" VerticalAlignment="Top" Height="38" Width="73" Click="Button_Click_4"/>
 
     </Grid>
 </Window>

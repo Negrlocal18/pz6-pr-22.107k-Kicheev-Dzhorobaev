@@ -8,8 +8,7 @@
         Title="Window2" Height="450" Width="800">
     <Grid>
         <TextBox HorizontalAlignment="Center" Margin="0,110,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="402" Height="28"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="645,340,0,0" VerticalAlignment="Top" Width="60" Height="27"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="64,340,0,0" VerticalAlignment="Top" Width="56" Height="27"/>
+        <Button Content="Векрнуться ко всем задачам" HorizontalAlignment="Center" Margin="0,392,0,0" VerticalAlignment="Top" Width="164" Foreground="#FFEF1F1F" Click="Button_Click"/>
 
     </Grid>
 </Window>
